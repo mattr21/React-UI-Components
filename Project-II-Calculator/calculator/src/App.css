@@ -1,0 +1,35 @@
+html {
+    font-size: 62.5%;
+}
+
+.calculator {
+    max-width: 320px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.displays {
+    display: flex;
+    justify-content: flex-end;
+    background: black;
+    color: white;
+    height: 80px;
+    align-items: center;
+    padding-right: 10px;
+}
+
+.main {
+    display: flex;
+    max-width: 320px;
+}
+
+.numbers {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+
+
+
+

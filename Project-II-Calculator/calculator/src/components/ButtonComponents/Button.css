@@ -1,0 +1,26 @@
+.operator {
+    height: 80px;
+    width: 80px;
+    background: rgb(155, 12, 12);
+    color: white;
+    font-size: 3rem;
+ }
+
+.action {
+    height: 80px;
+    width: 100%;
+    font-size: 3rem;
+}
+
+.actionZero {
+        font-weight: 700;
+}
+
+.number {
+    width: 80px;
+    height: 80px;
+    background: white;
+    font-size: 3rem;
+    font-weight: 700;
+}
+
